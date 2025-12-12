@@ -1,0 +1,177 @@
+PANDUAN PENGGUNAAN SISTEM (USER GUIDE) APLIKASI PPDB ONLINE SMK BAKTI NUSANTARA 666
+
+1. PENDAHULUAN
+
+Sistem Informasi Penerimaan Peserta Didik Baru (PPDB) Online ini adalah aplikasi berbasis web yang dirancang untuk membantu proses pendaftaran siswa baru secara digital. Sistem ini memiliki 5 (lima) hak akses pengguna yang berbeda, yaitu:
+
+Calon Siswa: Untuk mendaftar dan melihat pengumuman.
+
+Administrator: Untuk mengelola data master dan akun pengguna.
+
+Panitia Pendaftaran: Untuk memverifikasi berkas persyaratan.
+
+Staf Keuangan: Untuk memverifikasi pembayaran.
+
+Kepala Sekolah: Untuk memantau laporan dan statistik.
+
+Berikut adalah langkah-langkah penggunaan aplikasi untuk masing-masing pengguna.
+
+2. PANDUAN UNTUK CALON SISWA
+
+1. Membuat Akun Baru Sebelum bisa mengisi formulir, calon siswa wajib membuat akun terlebih dahulu.
+
+Buka halaman utama website PPDB.
+
+Klik tombol atau menu "Daftar Akun".
+
+Masukkan Nama Lengkap, Email (pastikan email aktif karena akan menjadi username), dan Password.
+
+Masukkan kode verifikasi (Captcha) yang tertera di layar untuk keamanan.
+
+Klik tombol "Daftar". Jika berhasil, Anda akan diarahkan ke halaman Login.
+
+2. Login ke Aplikasi
+
+Masukkan Email dan Password yang baru saja dibuat.
+
+Klik tombol "Masuk".
+
+Setelah berhasil, Anda akan masuk ke halaman Dashboard Siswa.
+
+3. Mengisi Formulir Pendaftaran Pada tahap ini, data belum tersimpan permanen sebelum semua tahap selesai.
+
+Klik menu "Isi Formulir Pendaftaran".
+
+Lengkapi data secara bertahap:
+
+Data Siswa: Isi NISN, NIK, Tempat/Tanggal Lahir, Agama, dan Alamat.
+
+Data Orang Tua: Isi Nama Ayah/Ibu, Pekerjaan, dan No. HP yang bisa dihubungi.
+
+Data Sekolah Asal: Isi nama SMP/MTs asal dan tahun lulus.
+
+Pilih Jurusan: Pilih kompetensi keahlian yang diminati (Kuota akan otomatis berkurang jika nanti diterima).
+
+Klik tombol "Simpan Data". Anda akan mendapatkan Nomor Pendaftaran otomatis.
+
+4. Upload Berkas Persyaratan
+
+Masuk ke menu "Upload Berkas".
+
+Siapkan file hasil scan atau foto yang jelas untuk dokumen: Kartu Keluarga (KK), Akta Kelahiran, dan Rapor Semester Terakhir.
+
+Klik tombol "Choose File" pada masing-masing kolom, lalu klik "Upload".
+
+Pastikan file berhasil terunggah dan bisa dilihat preview-nya.
+
+5. Melakukan Pembayaran
+
+Lakukan transfer biaya pendaftaran ke nomor rekening sekolah yang tertera di halaman informasi.
+
+Masuk ke menu "Pembayaran".
+
+Upload foto/screenshot bukti transfer tersebut.
+
+Status pembayaran Anda akan berubah menjadi "Pending Verifikasi".
+
+6. Mencetak Bukti Pendaftaran (Kartu Peserta)
+
+Masuk ke menu "Profil Saya".
+
+Scroll ke bagian bawah.
+
+Klik tombol berwarna merah bertuliskan "Cetak Bukti Pendaftaran (PDF)".
+
+Sistem akan otomatis mendownload file PDF yang berisi biodata dan status kelengkapan berkas Anda. Simpan atau cetak dokumen ini sebagai bukti sah pendaftaran.
+
+7. Melihat Pengumuman Kelulusan
+
+Cek secara berkala menu "Profil Saya".
+
+Siswa dinyatakan DITERIMA apabila status di dashboard menunjukkan:
+
+Status Administrasi: Diverifikasi (Sudah dicek Panitia).
+
+Status Pembayaran: Lunas (Sudah dicek Keuangan).
+
+3. PANDUAN UNTUK ADMINISTRATOR (ADMIN)
+
+Admin bertugas sebagai pengelola utama sistem.
+
+1. Mengatur Gelombang Pendaftaran Fitur ini digunakan untuk membuka atau menutup pendaftaran.
+
+Login sebagai Admin.
+
+Pilih menu "Atur Gelombang & TA".
+
+Untuk menutup pendaftaran, ubah status gelombang menjadi "Non-Aktif". Maka formulir pendaftaran di sisi siswa akan otomatis terkunci.
+
+Untuk membuka pendaftaran, ubah status menjadi "Aktif".
+
+2. Manajemen Akun Staf (User) Digunakan untuk membuatkan akun bagi Panitia, Keuangan, atau Kepala Sekolah.
+
+Pilih menu "Manajemen Users".
+
+Untuk menambah user baru: Klik tombol "+ Tambah Akun Baru". Isi Nama, Email, Password, dan pilih Role (Jabatan). Sistem akan mengenkripsi password secara otomatis demi keamanan.
+
+Catatan: Fitur Edit User ditiadakan untuk menjaga integritas data. Jika staf lupa password, Admin cukup menekan tombol "Reset Password" yang tersedia di samping nama user tersebut.
+
+3. Mengelola Data Jurusan
+
+Pilih menu "Data Jurusan".
+
+Admin dapat menambah jurusan baru, mengedit nama jurusan, atau mengubah jumlah Kuota maksimal siswa yang bisa diterima.
+
+4. Mencetak Laporan Akhir
+
+Pilih menu "Laporan & Cetak".
+
+Akan tampil daftar siswa yang sudah dinyatakan "DITERIMA".
+
+Klik tombol "Download Laporan PDF" untuk mengunduh rekapitulasi data siswa siap cetak.
+
+4. PANDUAN UNTUK PANITIA PENDAFTARAN
+
+Tugas Panitia adalah memeriksa keaslian berkas fisik/digital siswa.
+
+Login menggunakan akun Panitia.
+
+Pilih menu "Kelola Pendaftar".
+
+Cari siswa yang Status Administrasinya masih "Pending".
+
+Klik tombol "Detail/Verifikasi".
+
+Periksa file (Rapor/KK/Akta) dengan cara mengkliknya.
+
+Jika berkas sesuai, ubah status menjadi "Diverifikasi". Jika tidak jelas/salah, ubah menjadi "Ditolak".
+
+Klik "Simpan".
+
+5. PANDUAN UNTUK STAF KEUANGAN
+
+Tugas Staf Keuangan adalah memvalidasi uang masuk.
+
+Login menggunakan akun Keuangan.
+
+Pilih menu "Kelola Pendaftar".
+
+Cari siswa yang Status Pembayarannya "Pending Verifikasi".
+
+Klik tombol "Detail/Verifikasi".
+
+Lihat foto Bukti Transfer siswa. Cek mutasi rekening bank sekolah.
+
+Jika dana sudah masuk, ubah status menjadi "Lunas". Jika bukti palsu, ubah menjadi "Ditolak".
+
+Klik "Simpan".
+
+6. PANDUAN UNTUK KEPALA SEKOLAH
+
+Akun ini bersifat monitoring (hanya melihat data).
+
+Login menggunakan akun Kepala Sekolah.
+
+Pada halaman Dashboard Utama, Kepala Sekolah dapat melihat Grafik Statistik (Chart) yang menampilkan jumlah pendaftar yang masuk setiap harinya secara real-time.
+
+Kepala Sekolah juga dapat melihat rekapitulasi jumlah siswa per jurusan untuk bahan evaluasi rapat.
